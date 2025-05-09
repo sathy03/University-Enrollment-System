@@ -1,0 +1,5 @@
+levelNumber,levelName,courses
+1,Remedial courses,ENG1001;PMF1001
+2,Matriculation,ENI2001;TCP2001;BNS2001;LAW2001
+3,Undergraduate,ENI3001;TCP3001;BNS3001;LAW3001
+4,Postgraduate,ENI4001;TCP4001;BNS4001;LAW4001

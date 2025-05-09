@@ -1,0 +1,15 @@
+id,name,description,level,fee
+ENG1001,English Remedial,A course teaching simple english and more,1,500.0
+PMF1001,Mathematics Remedial,A course teaching simple maths and more,1,800.0
+ENI2001,Engineering,A course teaching simple engineering and more,2,1500.0
+TCP2001,IT,A course teaching simple i.t. and more,2,1500.0
+BNS2001,Business,A course teaching simple business and more,2,1500.0
+LAW2001,Law,A course teaching simple law and more,2,1500.0
+ENI3001,Engineering,A course teaching moderate engineering and more,3,2000.0
+TCP3001,IT,A course teaching moderate i.t. and more,3,2000.0
+BNS3001,Business,A course teaching moderate business and more,3,2000.0
+LAW3001,Law,A course teaching moderate law and more,3,2000.0
+ENI4001,Engineering,A course teaching high level engineering and more,4,3200.0
+TCP4001,IT,A course teaching high level i.t. and more,4,3200.0
+BNS4001,Business,A course teaching high level business and more,4,3200.0
+LAW4001,Law,A course teaching high level law and more,4,3200.0
